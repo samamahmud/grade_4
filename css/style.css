@@ -1,0 +1,41 @@
+table {
+    border: 2px solid rgb(209, 209, 209);
+    border-radius: 20px;
+    width: 98%;
+    margin: auto;
+    box-shadow: inset 3px 3px 5px rgba(0,0,0,0.16 );
+
+}
+
+td {
+    border: none;
+}
+
+P {
+    margin-left: 40px;
+    color: #FF00EE;;
+    font-weight: bold;
+}
+
+li {
+    color: gray;
+    margin-left: 17px;
+}
+
+div {
+    background-color: #FF00EE;
+    height: 30px;
+    width: 50px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 0 20px 20px 0;
+    margin-top: 12px;
+    padding-top: 10px;
+    margin-left: -17px;
+    position: absolute;
+
+
+}
+
+
